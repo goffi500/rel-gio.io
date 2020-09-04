@@ -1,0 +1,28 @@
+#n1{
+
+    color: aqua;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right:auto ;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+#n2{
+    position: relative;
+    top: 150px;
+}
+
+
+body{
+    background: rgb(37, 4, 37);
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    color: rgb(230, 201, 148);
+}
+.n3{
+    color: purple;
+}
